@@ -1,8 +1,6 @@
 # AgriHaat
 ![AgriHaat](./assets/Logo.png)
 ### Overview
-### Addressing Challenges Faced by Indian Farmers
-
 Indian farmers face numerous challenges, including limited market access, price manipulation by middlemen, inefficient resource allocation, and unstable incomes due to fluctuating crop prices. This AI-driven platform aims to solve these problems by:
 
 - **Direct Market Access**: Connecting farmers directly with buyers, eliminating middlemen, and ensuring fair prices.
