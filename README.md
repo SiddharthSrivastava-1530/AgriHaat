@@ -12,5 +12,7 @@ Indian farmers face numerous challenges, including limited market access, price 
 
 Through this integrated approach, the platform seeks to improve farmer profitability, ensure sustainable incomes, and reduce traditional farming risks.
 
+### Workflow
 ![Workflow](https://github.com/user-attachments/assets/a99f5922-36f9-44fa-98a2-590737e86330)
+
 
