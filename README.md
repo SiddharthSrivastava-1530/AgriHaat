@@ -1,5 +1,5 @@
 # AgriHaat
-![AgriHaat](assets/logo.png)
+![AgriHaat](./assets/logo.png)
 ### Overview
 Indian farmers face numerous challenges, including limited market access, price manipulation by middlemen, inefficient resource allocation, and volatile income due to fluctuating crop prices. This project seeks to address these problems by providing an AI-driven platform that leverages machine learning and data-driven insights to optimize the farming process end-to-end.
 
