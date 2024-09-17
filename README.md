@@ -24,3 +24,6 @@ Finally, the platform includes an **Interactive Farmer Awareness Portal** that p
 - **Optimized Resource Allocation**: A system funded through a 10% buyer advance optimizes the distribution of essential farming resources like government-owned tractors and fertilizers to enhance operational efficiency.
 - **Interactive Farmer Awareness Portal**: Provides real-time market insights, farming best practices, and personalized recommendations to empower farmers to make better decisions.
 - **Assured Market Access**: Through contract farming agreements, farmers are assured of stable buyers and timely payments, reducing income fluctuations.
+
+![Workflow](assets/Screenshot 2024-09-17 201257.png)
+
