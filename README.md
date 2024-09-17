@@ -1,7 +1,7 @@
 # AgriHaat
 
 ### Overview
-
+![Alt text]([URL-to-image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsageuniversity.edu.in%2Fblogs%2Frole-of-artificial-intelligence-in-agriculture&psig=AOvVaw0bbOP8QAxo3KwmOiGSFAWy&ust=1726659364023000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCU9cTxyYgDFQAAAAAdAAAAABAE))
 Indian farmers face numerous challenges, including limited market access, price manipulation by middlemen, inefficient resource allocation, and volatile income due to fluctuating crop prices. This project seeks to address these problems by providing an AI-driven platform that leverages machine learning and data-driven insights to optimize the farming process end-to-end.
 
 At its core, the platform aims to empower farmers by eliminating middlemen, ensuring a fair price for their produce, and improving access to critical resources like tractors and fertilizers. By analyzing a farmer's historical crop quality, land availability, and geographical proximity to similar farmlands, the platform allocates crops to each farmer in a way that maximizes both productivity and profitability. This data-driven approach ensures that every farmer grows crops best suited to their conditions while meeting market demands.
