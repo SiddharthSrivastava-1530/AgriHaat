@@ -32,3 +32,16 @@ The trader submits crop requirements to the government, which allocates farmland
   <img src="https://github.com/user-attachments/assets/2c8d042e-148a-403e-b40a-013fc590ff15" alt="Tech Stack 2" width="200"/>
   <img src="https://github.com/user-attachments/assets/c6e1326a-50c9-402e-a172-c8be0fac46e2" alt="Tech Stack 3" width="200"/>
 </p>
+
+### Impacts And Benefits
+
+- **Yield Improvement**: Optimizing crops and practices can boost yields by 20-30%, adding INR 30,000-50,000 per hectare annually.
+  
+- **Cost Reduction in Logistics**: Supply chain optimization could reduce logistics costs by 15-20%, saving approximately INR 100-150 crore annually.
+
+- **Market Price Improvement**: With transparent bidding and better market access, farmers could see a price increase of 10-15% for their produce.
+
+- **Wastage Reduction**: Efficient crop management and logistics can reduce wastage by 10-15%, equivalent to savings of INR 70,000 crore annually in food wastage costs.
+
+- **Increased Farmer Income**: Overall, farmer incomes could rise by 15-20% due to increased efficiency, better market prices, and reduced wastage, leading to an average annual income increase of INR 15,000-20,000 per farmer.
+
