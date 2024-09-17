@@ -1,6 +1,8 @@
 # AgriHaat
 ![AgriHaat](./assets/Logo.png)
 ### Overview
+![AgriHaat App](https://github.com/user-attachments/assets/30267c47-0299-4763-9c79-b03f4bfb9af2)
+
 Indian farmers face numerous challenges, including limited market access, price manipulation by middlemen, inefficient resource allocation, and unstable incomes due to fluctuating crop prices. This AI-driven platform aims to solve these problems by:
 
 - **Direct Market Access**: Connecting farmers directly with buyers, eliminating middlemen, and ensuring fair prices.
